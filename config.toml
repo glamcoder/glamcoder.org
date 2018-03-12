@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://example.com" 
+baseurl = "http://glamcoder.org" 
 builddrafts = true
 canonifyurls = false
 languageCode = "en-US"
@@ -22,15 +22,21 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Georgiy Mogelashvili"
-intro = "Startup Guru Extraordinaire"
-description = "Software Engineer Leader"
-## authorimage = "headshot.jpg"
+intro = "Software Developer, Team Lead"
+description = "In his 10+ years experience Georgiy had a chance to work for small local companies, country scale enterprises, non-profit organisations and international corporations.
+
+Today Georgiy is working at Booking.com, world's leading online travel agency. His role there - Senior Developer and Team Lead, and he is responsible for company products development as well as people management.
+
+Georgiy believes that main skill each manager should have is openness - ability to honestly and fairly talk to your direct reports and people around you in order to achieve results together.
+
+In his spare time Georgiy likes constructing Lego Technic creations, planespotting in airports around the world, and spending time with his wife and little daughter."
+authorimage = "5324.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Georgiy Mogelashvili"
+keywords = "mogelashvili,developer,speaker,leader"
 
 ## Social Accounts
 [params.social]
@@ -57,10 +63,10 @@ highlightjs = true
     identifier = "blog"
     url = "https://glamcoder.ru"
 [[menu.main]]
-    name = "about"
-    identifier = "about"
+    name = "speaker"
+    identifier = "speaker"
     weight = 200
-    url = "/about/"
+    url = "/speaker/"
 ## [[menu.main]]
 ##     name = "coderag"
 ##     identifier = "coderag"
