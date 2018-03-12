@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://example.com" 
+builddrafts = true
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Georgiy Mogelashvili"
+title = "Georgiy Mogelashvili"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+## disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+## googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Georgiy Mogelashvili"
+intro = "Startup Guru Extraordinaire"
+description = "Software Engineer Leader"
+## authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "glamcoder"
+instagram = "glamcoder"
+## xing = "<username>"
+linkedin = "gmogelashvili"
+twitter = "glamcoder"
+facebook = "gmogelashvili"
+## google = "<username>"
+stackoverflow = "glamcoder"
+email = "me@glamcoder.org"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Georgiy Mogelashvili." 
+## poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "https://glamcoder.ru"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+## [[menu.main]]
+##     name = "coderag"
+##     identifier = "coderag"
+##     weight = 300
+##     url = "/coderag/"
