@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "codefest-2018"
 tags = ["team lead", "autonomy", "servant leadership"]
 title = "[Russian] Быть лидером, а не боссом. Автономия и Servant Leadership в управлении командами."
-description = "March 31 - April 1, 2018, Novosibirsk, Russia."
+description = "Codefest 2018, March 31 - April 1, 2018, Novosibirsk, Russia."
 +++
 
 **[https://2018.codefest.ru/lecture/1247/](https://2018.codefest.ru/lecture/1247/)**

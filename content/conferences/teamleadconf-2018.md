@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "teamleadconf-2018"
 tags = ["team lead", "autonomy", "servant leadership"]
 title = "[Russian] Из закрытой касты в Servant Leader - эволюция тимлида в Booking.com"
-description = "February 8 - 9, 2018, Moscow, Russia."
+description = "TeamLead Conf 2018, February 8 - 9, 2018, Moscow, Russia."
 +++
 
 **[http://teamleadconf.ru/2018/abstracts/3168](http://teamleadconf.ru/2018/abstracts/3168)**

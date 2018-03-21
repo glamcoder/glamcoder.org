@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "codefest-2013"
 tags = ["azure", "blob", "mobile"]
 title = "[Russian] Мобильные сервисы, блобы и Windows 8. Храним данные в Windows Azure"
-description = "March 31 - April 1, 2013, Novosibirsk, Russia."
+description = "Codefest 2013, March 31 - April 1, 2013, Novosibirsk, Russia."
 +++
 
 **[https://2018.codefest.ru/lecture/51/](https://2018.codefest.ru/lecture/51/)**

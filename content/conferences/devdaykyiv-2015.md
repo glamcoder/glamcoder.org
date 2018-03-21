@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "devdaykyiv-2015"
 tags = ["azure", "cloud", "a/b testing"]
 title = "A/B test with azure websites traffic routing"
-description = "October 30, 2015, Kyiv, Ukraine."
+description = "DevDay Kyiv 2015, October 30, 2015, Kyiv, Ukraine."
 +++
 
 **[https://devday.in.ua/#program](https://devday.in.ua/#program)**

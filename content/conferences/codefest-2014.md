@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "codefest-2014"
 tags = ["azure", "backend", "cloud", "mobile"]
 title = "[Russian] Мастер-класс: Облачный бекенд для мобильных устройств своими руками"
-description = "March 29 - 30, 2014, Novosibirsk, Russia."
+description = "Codefest 2014, March 29 - 30, 2014, Novosibirsk, Russia."
 +++
 
 **[https://2018.codefest.ru/lecture/975/](https://2018.codefest.ru/lecture/975/)**

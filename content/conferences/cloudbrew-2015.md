@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "cloudbrew-2015"
 tags = ["azure", "cloud", "a/b testing"]
 title = "A/B test with azure websites traffic routing"
-description = "November 28, 2015, Lubbeek, Belgium."
+description = "Cloudbrew 2015, November 28, 2015, Lubbeek, Belgium."
 +++
 
 **[http://www.cloudbrew.be/2015/](http://www.cloudbrew.be/2015/)**
