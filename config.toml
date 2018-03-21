@@ -52,15 +52,20 @@ highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    weight = 200
-    identifier = "blog"
-    url = "https://glamcoder.ru"
-[[menu.main]]
     name = "conferences"
     identifier = "conferences"
     weight = 100
     url = "/conferences/"
+[[menu.main]]
+    name = "me @ sessionize"
+    identifier = "sessionize"
+    weight = 200
+    url = "https://sessionize.com/glamcoder/"
+[[menu.main]]
+    name = "blog"
+    weight = 300
+    identifier = "blog"
+    url = "https://glamcoder.ru"
 ## [[menu.main]]
 ##     name = "coderag"
 ##     identifier = "coderag"
