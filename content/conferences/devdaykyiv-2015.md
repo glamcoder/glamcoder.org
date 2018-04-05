@@ -13,3 +13,5 @@ description = "DevDay Kyiv 2015, October 30, 2015, Kyiv, Ukraine."
 **[https://devday.in.ua/#program](https://devday.in.ua/#program)**
 
 Do you have a website? If yes then how do you test ideas that you want to implement? What if your brand new solution will ruin user experience? And what if you have a critical bug being deployed to production? From this talk you will know how to A/B test your web applications more confidently and safely with new Azure Websites Traffic Routing services.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1U2uCiOv_jU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -10,6 +10,8 @@ title = "[Russian] Мобильные сервисы, блобы и Windows 8. �
 description = "Codefest 2013, March 31 - April 1, 2013, Novosibirsk, Russia."
 +++
 
-**[https://2018.codefest.ru/lecture/51/](https://2018.codefest.ru/lecture/51/)**
+**[https://2013.codefest.ru/lecture/51/](https://2013.codefest.ru/lecture/51/)**
 
 В докладе будет на практическом примере рассказано о двух способах хранения данных мобильного приложения в Windows Azure. Для больших и редкоиспользуемых данных будет использоваться Azure Blob Storage, в то время как для данных мелкого объема мы воспользуемся Windows Azure Mobile Services. На примере приложения для Windows 8 и Windows Phone 8 будет показан способ работы с этими хранилищами с помощью .NET SDK и веб-сервисов.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-zSZsPZNkU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
