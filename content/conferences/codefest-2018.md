@@ -21,3 +21,7 @@ description = "Codefest 2018, March 31 - April 1, 2018, Novosibirsk, Russia."
 И хотя этот эксперимент и был завершён, он дал нам много информации и новых знаний, которые повлияли на то, что значит тимлид в букинге сегодня. Путём проб и ошибок мы пришли к концепции Servant Leadership, которая применяется по всей компании. Её суть - предоставить больше автономии и ответственности членам команды, сохранив за тимлидами заботу о благополучии людей.
 
 Из этого доклада вы узнаете, как в Booking.com пришли к автономии в командах, что было хорошо и что пошло не так, как обстоят дела сейчас и какой опыт мы из этого всего вынесли.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kz7N3f13go" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3XaPaAuMXcxr7e" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
