@@ -4,13 +4,14 @@ comments = false
 date = "2018-05-05T00:00:00-04:00"
 draft = false
 showpagemeta = true
-slug = "qconnewyork-2018"
+slug = "ctoschool-2018"
 tags = ["team lead", "autonomy", "servant leadership"]
 title = "The Story of Teams Autonomy and Servant Leadership"
-description = "QCon New York 2018, June 27 - 29, 2018, New York, USA."
+description = "CTO School Meetup, June 26, 2018, New York, USA."
 +++
 
-**[https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0](https://qconnewyork.com/ny2018/presentation/empowered-teams-presentation-0)**
+**[https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/](https://www.meetup.com/ctoschool/events/fgqzclyxjbpb/)**
+**[https://www.meetup.com/ctoschool/](https://www.meetup.com/ctoschool/)**
 
 When faced a tremendous growth, company may have a problem - how to motivate all their employees and set them for success? One of the possible solutions we experimented with at Booking.com was idea of having autonomous teams - teams without direct managers (team leads) and where each and every member was equally responsible for team dynamics and perfromance. We believed that through providing autonomy, people will drive their own and company's performance.
 
