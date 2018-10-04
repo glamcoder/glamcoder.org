@@ -18,5 +18,11 @@ It was partially true but also not. We had to stop the experiment, but we gained
 
 In this talk you will be guided through the story of team leaders evolution at Booking.com. You will learn how did autonomous teams perform and what was great about it, will also learn some lessons we learned, and get some insights on how teams are organised today in the organisation with more than 1,500 people in IT.
 
+**Video**
+
+**[https://www.infoq.com/presentations/team-autonomy-servant-leadership](https://www.infoq.com/presentations/team-autonomy-servant-leadership)**
+
+**Slides**
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/NnXlY6DynZ6YCS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px">
 

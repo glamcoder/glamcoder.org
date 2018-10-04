@@ -1,7 +1,7 @@
 +++
 categories = ["psychology", "hr", "gamification", "russian"]
 comments = false
-date = "2018-05-01T00:00:00-04:00"
+date = "2018-05-28T00:00:00-04:00"
 draft = false
 showpagemeta = true
 slug = "aletheia-2018"
