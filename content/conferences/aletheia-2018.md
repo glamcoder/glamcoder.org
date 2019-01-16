@@ -20,4 +20,6 @@ description = "Aletheia Business 2018, May 28 - 29, 2018, Moscow, Russia."
 
 В своем докладе я расскажу, как мы пришли к идее подобного тренинга, с какими проблемами столкнулись, как запускали первый пилот, и как это превратилось во внутреннюю франшизу. Ну и, конечно же, расскажу о том, что именно представляет собой "Игра Ролей", и как вы можете применить её в своей организации.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cet6m7Sp-dU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3CMqVaDXBwqUA6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

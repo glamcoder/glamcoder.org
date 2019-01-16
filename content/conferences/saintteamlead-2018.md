@@ -7,7 +7,7 @@ showpagemeta = true
 slug = "saintteamlead-2018"
 tags = ["roundtable", "performance"]
 title = "[Russian] Круглый стол \"Как измерить программиста\""
-description = "Saint TeamLead Conf 2019, September 24 - 25, 2018, Saint Petersburg, Russia."
+description = "Saint TeamLead Conf 2018, September 24 - 25, 2018, Saint Petersburg, Russia."
 +++
 
 **[https://teamleadconf.ru/spb/2018/abstracts/3755](https://teamleadconf.ru/spb/2018/abstracts/3755)**

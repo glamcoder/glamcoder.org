@@ -1,7 +1,7 @@
 +++
 categories = ["psychology", "hr", "gamification"]
 comments = false
-date = "2018-10-01T00:00:00-04:00"
+date = "2018-11-11T00:00:00-04:00"
 draft = false
 showpagemeta = true
 slug = "qconsf-2018"
