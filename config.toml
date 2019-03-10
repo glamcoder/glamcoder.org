@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://glamcoder.org"
+baseurl = "https://glamcoder.org"
 builddrafts = true
 canonifyurls = false
 languageCode = "en-US"
