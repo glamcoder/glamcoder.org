@@ -11,4 +11,4 @@ Georgiy believes that main skill each manager should have is openness - ability 
 
 In his spare time Georgiy likes constructing Lego Technic creations, planespotting in airports around the world, and spending time with his wife and little daughter.
 
-Also is working hard to bring you [conferenc.io](http://conferenc.io) - best conference management service.
+Also is working hard to help people managers achieve their goals. Details [here](https://coaching.glamcoder.org)(Russian only by now, use Google translate).

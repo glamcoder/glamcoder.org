@@ -67,10 +67,10 @@ highlightjs = true
     identifier = "blog"
     url = "https://glamcoder.ru"
 [[menu.main]]
-    name = "conferenc.io"
-    identifier = "conferencio"
+    name = "leaders coaching"
+    identifier = "coaching"
     weight = 300
-    url = "http://conferenc.io/"
+    url = "https://coaching.glamcoder.org/"
 ## [[menu.main]]
 ##     name = "coderag"
 ##     identifier = "coderag"
